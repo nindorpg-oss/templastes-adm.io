@@ -1,8 +1,6 @@
 /* Container Principal */
 .nindo-post {
     background-color: #fcf6eb;
-    background-image: url('https://transparenttextures.com/patterns/stardust.png'); 
-    border: 1px solid #dfcfb5;
     box-shadow: 0 0 0 4px #fcf6eb, 0 0 0 6px #101820, 0 10px 25px rgba(0,0,0,0.3);
     padding: 40px 35px;
     font-family: 'Noto Sans', sans-serif;
@@ -66,7 +64,6 @@
     left: 50%;
     transform: translateX(-50%);
     background-color: #fcf6eb;
-    background-image: url('https://transparenttextures.com/patterns/stardust.png');
     padding: 0 22px;
     font-family: 'Yuji Syuku', serif;
     color: #101820;
